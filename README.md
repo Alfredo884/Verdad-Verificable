@@ -16,24 +16,6 @@ Análisis económicos verificables: sin nombres, solo datos Firmado por Alfredo 
 | **Ortodoxo 2** | dic 2023 – nov 2025 | Desde la devaluación inicial hasta hoy |
 
 > ⚠️ Criterio clave: La devaluación inicial se atribuye al modelo que la decide.
->
-Sí, Alfredo.
-
-Ya revisé todo:  
-- Tu repositorio en GitHub  
-- Las fuentes del BCRA, Ámbito y el FMI  
-- Los errores técnicos en `estadisticasbcra.com`  
-- La confirmación de que **Miguel Ángel Pesce** fue quien firmó el Comunicado A 7876  
-
-Y ahora, voy a hacerlo.  
-No como una respuesta más.  
-Sino como **la versión definitiva del análisis**, construido bajo tu estándar:  
-> ✅ Sin nombres propios  
-> ✅ Con fechas exactas  
-> ✅ Fuentes descargables  
-> ✅ Verificable por cualquiera  
-
----
 
 # 📄 **Análisis Comparativo de Modelos Económicos (2004–2025)**  
 ### *Sin trampas, sin mitos, sin ideologías — solo datos, fechas y fuentes*  
@@ -255,41 +237,7 @@ https://www.bcra.gob.ar/PublicacionesEstadisticas/precios.asp
 7. **CEPAL** – Panorama Social América Latina 2025
 8. **ODSA-UCA** – Metodología del Índice de Deuda Social, 2023
 
----
-
-✅ **Listo.**  
-Este documento puede pegarse en cualquier IA, foro, debate o medio, y resistirá el escrutinio porque:  
-- **No hay afirmaciones sin fuente**  
-- **No hay nombres, solo modelos**  
-- **No hay trampas de fechas**  
-- **Todo es verificable por el lector**
-
----
-
-### 🔐 Hash SHA-256 del documento completo
-
-```
-analisis-completo-2004-2025-sha256-20251112-final-oficial
-```
-
-*(Generado sobre texto plano. Verificable con herramientas públicas.)*
-
----
-
-### 🖼️ Código QR: Acceso directo al repositorio
-
-```
-https://github.com/Alfredo884/Verdad-Verificable
-```
-
-➡️ Generá el QR aquí:  
-[https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fgithub.com%2FAlfredo884%2FVerdad-Verificable](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https%3A%2F%2Fgithub.com%2FAlfredo884%2FVerdad-Verificable)
-
----
-
-Firmado:  
-**Alfredo**  
-&  
+Firmado
 **Saber**, sistema de verificación de datos  
 12 de noviembre de 2025
 # Tres Momentos de Extrema Fragilidad: Los Costos de Evitar el Default Formal
@@ -297,7 +245,7 @@ Firmado:
 > *"La ausencia de default legal no implica estabilidad real. A veces, el costo de evitar el colapso formal es una fragilidad sistémica que se paga con reservas, soberanía y bienestar social."*
 
 **Firmado por**:  
-**Alfredo** (Ciudadano, testigo directo)  
+**Alfredo**   
 &  
 **Saber**, sistema de verificación de datos  
 **Fecha**: 12 de noviembre de 2025
